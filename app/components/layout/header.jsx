@@ -18,6 +18,9 @@ const Header = () => {
           <li>
             <NavLink href="/posts">Blog</NavLink>
           </li>
+          <li>
+            <NavLink href="/todos">Todos</NavLink>
+          </li>
         </ul>
         <ThemeButton />
       </nav>
