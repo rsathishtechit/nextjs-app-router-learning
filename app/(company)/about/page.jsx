@@ -1,8 +1,5 @@
-import Link from "next/link";
+const Page = async () => {
+  return <div>About</div>;
+};
 
-const AboutPage = () => (
-  <section>
-    <p>About</p>
-  </section>
-);
-export default AboutPage;
+export default Page;
